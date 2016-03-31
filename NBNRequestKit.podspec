@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/nerdishbynature/RequestKit"
   s.license          = 'MIT'
   s.author           = { "Piet Brauer" => "piet@nerdishbynature.com" }
-  s.source           = { :git => "https://github.com/nerdishbynature/RequestKit.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/1ec5/RequestKit.git", :branch => "mapbox-podspec" }
   s.social_media_url = 'https://twitter.com/pietbrauer'
   s.license          = { :type => "MIT", :file => "LICENSE" }
   s.module_name     = "RequestKit"
